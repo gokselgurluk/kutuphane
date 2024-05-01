@@ -1,0 +1,1 @@
+görseller src klasörün de
